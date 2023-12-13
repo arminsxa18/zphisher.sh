@@ -902,7 +902,8 @@ main_menu() {
 	esac
 }
 
-## Main
+## Main$ cd zphisher
+$ bash zphisher.sh
 kill_pid
 dependencies
 check_status
